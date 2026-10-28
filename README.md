@@ -1,4 +1,4 @@
-# threadscrape
+# threadscrape 
 ### A Python-Based Threads Search Data Collector
 
 **ThreadScrape** is a Python-based data collection tool designed to collect publicly displayed posts from Threads search results using keyword-based queries. Built with Playwright and Beautiful Soup, it extracts post metadata and exports the collected data into structured Excel (`.xlsx`) files.
