@@ -211,11 +211,11 @@ scroll 1/400: +5 (total 5, stale 0/8)
 scroll 2/400: +3 (total 8, stale 0/8)
 scroll 3/400: +4 (total 12, stale 0/8)
 ...
-scroll 400/400: +2 (total 1779, stale 0/8)
+scroll 400/400: +3 (total 2089, stale 0/8)
 
 Stopped: reached 400 scrolls
 
-OK: 1772 posts -> threads_kopdes_20261027_2019.xlsx
+OK: 2089 posts -> threads_prabowo_subianto_20261027_1939.xlsx
 ```
 
 In this example, the scraper discovered 1,779 unique post IDs during collection, while the final dataset contained 1,772 posts after processing.
